@@ -5,6 +5,9 @@ global   A B K  Laplacian j_sim na   e x_broad ma  u_s gamma_bar
 
 N=5; %number of agents
 
+
+
+
 % agent model
 % A=[0 1; 0 -0.4 ];
 % B=[0.8 0.5]';
