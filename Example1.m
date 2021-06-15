@@ -7,9 +7,6 @@
 %%% 3- Add to path --> Selected folders and subfolders. Done!
  
 
-
-
-
 close all
 clear all
 global   A B K  Laplacian j_sim na   e x_broad ma  u_s gamma_bar
